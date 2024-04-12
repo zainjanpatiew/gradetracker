@@ -1,4 +1,4 @@
-# React GPA Calculator (Gatsby)
+# GPA Calculator 
 
 **Description**
 A React-based website built with the Gatsby framework that enables students to easily calculate their GPA, using sample data from a JSON file.
